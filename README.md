@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I'm a passionate **Frontend Developer** from Poland 🇵🇱, with over 2 years of professional experience in building clean, responsive, and user-friendly web applications.
-I specialize in Angular, TypeScript, and SCSS 🎨, and I love crafting interfaces that balance performance ⚡ with great user experience ✨.
+I specialize in **Angular**, TypeScript, and SCSS 🎨, and I love crafting interfaces that balance performance ⚡ with great user experience ✨.
 
 Beyond frontend development, I’ve also gained some hands-on experience with backend technologies such as C# ASP.NET 🛠️ and relational databases like PostgreSQL and MSSQL 🗄️.
 I strongly value quality assurance and software reliability, which is why I frequently use Jest 🧪 and Puppeteer 🤖 to ensure solid testing practices.
