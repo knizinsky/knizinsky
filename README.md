@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a passionate **Frontend Developer** from Poland 🇵🇱, with over 2 years of professional experience in building clean, responsive, and user-friendly web applications.
+I'm a passionate **Frontend Developer** from Poland 🇵🇱, with over 3 years of professional experience in building clean, responsive, and user-friendly web applications.
 I specialize in **Angular**, **TypeScript**, and **SCSS** 🎨, and I love crafting interfaces that balance performance ⚡ with great user experience ✨.
 
 Beyond frontend development, I’ve also gained some hands-on experience with backend technologies such as C# ASP.NET 🛠️ and relational databases like PostgreSQL and MSSQL 🗄️.
